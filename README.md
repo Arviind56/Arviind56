@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **facts detection**
 
 - 🌱 I’m currently learning **React Native, Bootstrap, React, JavaScript, Node.js**
-
+- ➕ I’m currently working on **Dot net, GitFlows, storybook, TypeScript*
 - 📫 How to reach me **arvindrajagopalan87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
